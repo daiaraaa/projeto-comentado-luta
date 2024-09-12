@@ -6,7 +6,7 @@
  */
 
 class Stage {
-    constructor(char1, char2, char1Element, char2Element, logObject) {
+    constructor(char1, char2, char1Element, char2Element, logObject) {l
         this.char1 = char1
         this.char2 = char2
         this.char1Element = char1Element
