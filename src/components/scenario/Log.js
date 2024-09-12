@@ -16,3 +16,6 @@ class Log {
         }
     }
 }
+
+// Trocar os que estão dentro do doAttack()
+// console.log para this.log.AddMessage
