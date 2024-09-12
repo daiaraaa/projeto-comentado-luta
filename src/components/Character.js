@@ -18,4 +18,4 @@ class Character {
     set life(newLife) {
         this.#life = newLife < 0 ? 0 : newLife
     }
-}
+}l
