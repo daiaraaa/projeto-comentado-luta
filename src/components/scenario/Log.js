@@ -6,7 +6,7 @@ class Log {
 
     addMessage(msg) {
         this.list.push(msg)
-        this.render()
+        this.render()l
     }
 
     render() {
