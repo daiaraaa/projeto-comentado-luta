@@ -64,3 +64,8 @@ class Stage {
         this.update()
     }
 }
+
+        // atualizar dados
+        this.update()
+    }
+}
